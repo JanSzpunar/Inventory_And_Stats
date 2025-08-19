@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\source\\inventoryandstatscpp\\stats\\statscomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\intermediate\\build\\win64\\x64\\inventoryandstatscppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventoryandstatscpp\\definitions.inventoryandstatscpp.h",
+            "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\source\\inventoryandstatscpp\\stats\\statscomponent.h",
+            "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\source\\inventoryandstatscpp\\stats\\statsconfig.h",
+            "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\source\\inventoryandstatscpp\\stats\\statsconfigdata.h",
+            "c:\\unrealengine\\ue_5.5.4\\ue_5.5\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\unrealengine\\ue_5.5.4\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\unrealengine\\ue_5.5.4\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\intermediate\\build\\win64\\unrealeditor\\inc\\inventoryandstatscpp\\uht\\statsconfigdata.generated.h",
+            "c:\\unrealengine\\ue_5.5.4\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\unrealengine\\ue_5.5.4\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\unrealengine\\ue_5.5.4\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\unrealengine\\ue_5.5.4\\ue_5.5\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\unrealengine\\ue_5.5.4\\ue_5.5\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\unrealengine\\ue_5.5.4\\ue_5.5\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\intermediate\\build\\win64\\unrealeditor\\inc\\inventoryandstatscpp\\uht\\statsconfig.generated.h",
+            "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\source\\inventoryandstatscpp\\stats\\basestats.h",
+            "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\intermediate\\build\\win64\\unrealeditor\\inc\\inventoryandstatscpp\\uht\\basestats.generated.h",
+            "c:\\unrealengine\\myprojects\\inventoryandstatscpp\\intermediate\\build\\win64\\unrealeditor\\inc\\inventoryandstatscpp\\uht\\statscomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

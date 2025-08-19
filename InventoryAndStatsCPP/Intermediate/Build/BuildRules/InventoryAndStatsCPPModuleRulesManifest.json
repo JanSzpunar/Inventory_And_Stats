@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealEngine\\MyProjects\\InventoryAndStatsCPP\\Source\\InventoryAndStatsCPP\\InventoryAndStatsCPP.Build.cs",
+		"C:\\UnrealEngine\\MyProjects\\InventoryAndStatsCPP\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\UnrealEngine\\MyProjects\\InventoryAndStatsCPP\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\UnrealEngine\\MyProjects\\InventoryAndStatsCPP\\Source\\InventoryAndStatsCPP.Target.cs",
+		"C:\\UnrealEngine\\MyProjects\\InventoryAndStatsCPP\\Source\\InventoryAndStatsCPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
