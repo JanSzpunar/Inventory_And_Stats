@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define INVENTORYANDSTATSCPP_InventoryItemStatic_generated_h
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_InventoryItemStatic_h_11_GENERATED_BODY \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_InventoryItemStatic_h_11_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FInventoryItemStatic_Statics; \
 	INVENTORYANDSTATSCPP_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -23,7 +23,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> INVENTORYANDSTATSCPP_API UScriptStruct* StaticStruct<struct FInventoryItemStatic>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_InventoryItemStatic_h
+#define CURRENT_FILE_ID FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_InventoryItemStatic_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

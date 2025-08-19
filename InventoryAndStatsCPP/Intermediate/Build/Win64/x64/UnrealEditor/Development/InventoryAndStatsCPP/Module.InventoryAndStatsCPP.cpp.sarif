@@ -10,13 +10,13 @@
                         "text": "data member 'FInventoryItemStatic::MaxStackSize' will be initialized after data member 'FInventoryItemStatic::Dimensions'"
                     },
                     "analysisTarget": {
-                        "uri": "file:///C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventoryAndStatsCPP/Module.InventoryAndStatsCPP.cpp"
+                        "uri": "file:///C:/UnrealEngine/MyProjects/Inventory_And_Stats_CPP/InventoryAndStatsCPP/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventoryAndStatsCPP/Module.InventoryAndStatsCPP.cpp"
                     },
                     "locations": [
                         {
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "file:///C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Source/InventoryAndStatsCPP/Inventory/InventoryItemStatic.h"
+                                    "uri": "file:///C:/UnrealEngine/MyProjects/Inventory_And_Stats_CPP/InventoryAndStatsCPP/Source/InventoryAndStatsCPP/Inventory/InventoryItemStatic.h"
                                 },
                                 "region": {
                                     "startLine": 38,

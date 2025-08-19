@@ -1,3 +1,3 @@
 // PCH for Runtime/Core/Public/CoreSharedPCH.h
-#include "C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Intermediate/Build/Win64/x64/InventoryAndStatsCPPEditor/Development/Core/SharedDefinitions.Core.Cpp20.h"
+#include "C:/UnrealEngine/MyProjects/Inventory_And_Stats_CPP/InventoryAndStatsCPP/Intermediate/Build/Win64/x64/InventoryAndStatsCPPEditor/Development/Core/SharedDefinitions.Core.Cpp20.h"
 #include "Runtime/Core/Public/CoreSharedPCH.h"

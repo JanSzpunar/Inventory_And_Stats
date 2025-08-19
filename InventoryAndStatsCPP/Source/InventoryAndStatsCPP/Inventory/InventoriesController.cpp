@@ -270,11 +270,19 @@ void UInventoriesController::CreatePlayersEquipmentsID(FGameplayTag Tag, int32 P
 
 void UInventoriesController::OnInventoryCloseRequested(FName Name)
 {
-	AHUD* HUD = GetWorld()->GetFirstPlayerController()->GetHUD();
-	if ((HUD && HUD->GetClass()->ImplementsInterface(UInventoryHUDInterface::StaticClass())) == false)
+	if (!IsValid(GetWorld())) return;
+
+	APlayerController* PC = GetWorld()->GetFirstPlayerController();
+	if (!IsValid(PC)) return;
+
+	AHUD* HUD = PC->GetHUD();
+	if (!IsValid(HUD)) return;
+
+	if (!HUD->GetClass()->ImplementsInterface(UInventoryHUDInterface::StaticClass()))
 	{
 		return;
 	}
+
 	if (UInventoryController** FoundInventory = InventoryControllers.Find(Name))
 	{
 		if (*FoundInventory)
@@ -282,12 +290,19 @@ void UInventoriesController::OnInventoryCloseRequested(FName Name)
 			SaveData.Add(Name, (*FoundInventory)->GetSaveData());
 		}
 	}
-	IInventoryHUDInterface::Execute_CloseInventory(HUD, Name);
+
+	if (IsValid(HUD))
+	{
+		IInventoryHUDInterface::Execute_CloseInventory(HUD, Name);
+	}
+
 	InventoryControllers.Remove(Name);
+
 	if (!Equipments.Contains(Name))
 	{
 		return;
 	}
+
 	for (const FName& EquipmentName : Equipments)
 	{
 		if (UInventoryController** FoundEquipment = InventoryControllers.Find(EquipmentName))
@@ -299,8 +314,10 @@ void UInventoriesController::OnInventoryCloseRequested(FName Name)
 			InventoryControllers.Remove(EquipmentName);
 		}
 	}
+
 	Equipments.Empty();
 }
+
 
 void UInventoriesController::OnItemAddRequested(FName Inventory, int32 Cell, FInventoryItem Item)
 {

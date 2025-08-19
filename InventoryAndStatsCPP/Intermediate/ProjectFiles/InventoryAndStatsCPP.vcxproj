@@ -67,7 +67,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6B013935-3024-3830-B68E-A589B6044D9A}</ProjectGuid>
+    <ProjectGuid>{817938B4-E32F-3F82-BF26-75F023BBF362}</ProjectGuid>
     <RootNamespace>InventoryAndStatsCPP</RootNamespace>
   </PropertyGroup>
   <Import Project="UECommon.props" />
@@ -520,7 +520,6 @@
     <None Include="..\..\InventoryAndStatsCPP.uproject"/>
     <None Include="..\..\Source\InventoryAndStatsCPP.Target.cs"/>
     <None Include="..\..\Source\InventoryAndStatsCPPEditor.Target.cs"/>
-    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\UpgradeLog.htm"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>

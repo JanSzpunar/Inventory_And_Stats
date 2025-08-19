@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define INVENTORYANDSTATSCPP_Player_Base_generated_h
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_18_INCLASS_NO_PURE_DECLS \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPlayer_Base(); \
 	friend struct Z_Construct_UClass_APlayer_Base_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(APlayer_Base)
 
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_18_ENHANCED_CONSTRUCTORS \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	APlayer_Base(APlayer_Base&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~APlayer_Base();
 
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_15_PROLOG
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_18_GENERATED_BODY \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_15_PROLOG
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_18_INCLASS_NO_PURE_DECLS \
-	FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_18_ENHANCED_CONSTRUCTORS \
+	FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_18_INCLASS_NO_PURE_DECLS \
+	FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> INVENTORYANDSTATSCPP_API UClass* StaticClass<class APlayer_Base>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h
+#define CURRENT_FILE_ID FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Characters_Player_Base_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

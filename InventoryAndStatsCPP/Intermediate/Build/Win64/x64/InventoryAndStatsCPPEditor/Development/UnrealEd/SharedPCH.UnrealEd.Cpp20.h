@@ -1,3 +1,3 @@
 // PCH for Editor/UnrealEd/Public/UnrealEdSharedPCH.h
-#include "C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Intermediate/Build/Win64/x64/InventoryAndStatsCPPEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
+#include "C:/UnrealEngine/MyProjects/Inventory_And_Stats_CPP/InventoryAndStatsCPP/Intermediate/Build/Win64/x64/InventoryAndStatsCPPEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
 #include "Editor/UnrealEd/Public/UnrealEdSharedPCH.h"

@@ -5,20 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/Interactables/BP_Interactable_Base.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/HUD/Interactables/WBP_InteractionPrompt.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/Interactables/BP_Interactable_AddExperience.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/Interactables/BP_Interactable_SaveGameAndReset.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/Interactables/BP_Interactable_AddItems.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/__ExternalActors__/Levels/ThirdPersonMap/9/ZF/JZTD7SABQP9TKZU91EZB7W.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/__ExternalActors__/Levels/ThirdPersonMap/9/A6/YWXOM951ND15XZMJQDPQ99.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/__ExternalActors__/Levels/ThirdPersonMap/1/UA/QDBHPYF76HFNF08JBJ4CTA.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/BaseBlueprints/PC_InventoryAndStats.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/Input/Actions/IA_Interact.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/Input/IMC_Default.uasset",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/Levels/ThirdPersonMap.umap",
-				"C:/UnrealEngine/MyProjects/InventoryAndStatsCPP/Content/HUD/CharacterPanel/WBP_CharacterPanel.uasset"
+				"C:/UnrealEngine/MyProjects/Inventory_And_Stats_CPP/InventoryAndStatsCPP/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
 	]

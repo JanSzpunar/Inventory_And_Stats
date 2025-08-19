@@ -1,12 +1,12 @@
-"C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\Module.InventoryAndStatsCPP.cpp"
-/FI"C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\InventoryAndStatsCPPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\Definitions.InventoryAndStatsCPP.h"
-/Yu"C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\InventoryAndStatsCPPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\InventoryAndStatsCPPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\Module.InventoryAndStatsCPP.cpp.obj"
-/experimental:log "C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\Module.InventoryAndStatsCPP.cpp.sarif"
-/sourceDependencies "C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\Module.InventoryAndStatsCPP.cpp.dep.json"
-@"C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\InventoryAndStatsCPP.Shared.rsp"
+"C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\Module.InventoryAndStatsCPP.cpp"
+/FI"C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\InventoryAndStatsCPPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\Definitions.InventoryAndStatsCPP.h"
+/Yu"C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\InventoryAndStatsCPPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\InventoryAndStatsCPPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\Module.InventoryAndStatsCPP.cpp.obj"
+/experimental:log "C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\Module.InventoryAndStatsCPP.cpp.sarif"
+/sourceDependencies "C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\Module.InventoryAndStatsCPP.cpp.dep.json"
+@"C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventoryAndStatsCPP\InventoryAndStatsCPP.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

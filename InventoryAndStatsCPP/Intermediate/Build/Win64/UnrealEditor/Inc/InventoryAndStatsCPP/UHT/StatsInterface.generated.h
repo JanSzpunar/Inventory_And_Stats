@@ -17,7 +17,7 @@ struct FGameplayTag;
 #endif
 #define INVENTORYANDSTATSCPP_StatsInterface_generated_h
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execSetBaseStats); \
 	DECLARE_FUNCTION(execGetBaseStats); \
 	DECLARE_FUNCTION(execAddExperience); \
@@ -25,7 +25,7 @@ struct FGameplayTag;
 	DECLARE_FUNCTION(execGetStatsComponent);
 
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	INVENTORYANDSTATSCPP_API UStatsInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -39,7 +39,7 @@ public: \
 	INVENTORYANDSTATSCPP_API virtual ~UStatsInterface();
 
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_GENERATED_UINTERFACE_BODY() \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_GENERATED_UINTERFACE_BODY() \
 private: \
 	static void StaticRegisterNativesUStatsInterface(); \
 	friend struct Z_Construct_UClass_UStatsInterface_Statics; \
@@ -48,15 +48,15 @@ public: \
 	DECLARE_SERIALIZER(UStatsInterface)
 
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_GENERATED_BODY \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_GENERATED_BODY \
 	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_GENERATED_UINTERFACE_BODY() \
-	FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_ENHANCED_CONSTRUCTORS \
+	FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_GENERATED_UINTERFACE_BODY() \
+	FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_INCLASS_IINTERFACE_NO_PURE_DECLS \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_INCLASS_IINTERFACE_NO_PURE_DECLS \
 protected: \
 	virtual ~IStatsInterface() {} \
 public: \
@@ -65,12 +65,12 @@ public: \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_11_PROLOG
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_22_GENERATED_BODY \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_11_PROLOG
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_22_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_INCLASS_IINTERFACE_NO_PURE_DECLS \
+	FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h_14_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -78,7 +78,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> INVENTORYANDSTATSCPP_API UClass* StaticClass<class UStatsInterface>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h
+#define CURRENT_FILE_ID FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Stats_StatsInterface_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

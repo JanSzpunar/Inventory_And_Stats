@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define INVENTORYANDSTATSCPP_SavePlayersData_generated_h
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Saving_SavePlayersData_h_12_GENERATED_BODY \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Saving_SavePlayersData_h_12_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSavePlayersData_Statics; \
 	INVENTORYANDSTATSCPP_API static class UScriptStruct* StaticStruct();
 
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> INVENTORYANDSTATSCPP_API UScriptStruct* StaticStruct<struct FSavePlayersData>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Saving_SavePlayersData_h
+#define CURRENT_FILE_ID FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Saving_SavePlayersData_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

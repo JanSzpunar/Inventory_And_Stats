@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define INVENTORYANDSTATSCPP_Equipment_generated_h
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEquipment(); \
 	friend struct Z_Construct_UClass_UEquipment_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(UEquipment)
 
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UEquipment(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -37,12 +37,12 @@ public: \
 	NO_API virtual ~UEquipment();
 
 
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_14_PROLOG
-#define FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_17_GENERATED_BODY \
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_14_PROLOG
+#define FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_17_INCLASS_NO_PURE_DECLS \
-	FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_17_ENHANCED_CONSTRUCTORS \
+	FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_17_INCLASS_NO_PURE_DECLS \
+	FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -50,7 +50,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> INVENTORYANDSTATSCPP_API UClass* StaticClass<class UEquipment>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_MyProjects_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h
+#define CURRENT_FILE_ID FID_MyProjects_Inventory_And_Stats_CPP_InventoryAndStatsCPP_Source_InventoryAndStatsCPP_Inventory_Equipment_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

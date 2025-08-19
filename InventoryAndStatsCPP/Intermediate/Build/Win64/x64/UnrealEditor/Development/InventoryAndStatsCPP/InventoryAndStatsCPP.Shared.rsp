@@ -285,8 +285,8 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-/I "C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Intermediate\Build\Win64\UnrealEditor\Inc\InventoryAndStatsCPP\UHT"
-/I "C:\UnrealEngine\MyProjects\InventoryAndStatsCPP\Source"
+/I "C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Intermediate\Build\Win64\UnrealEditor\Inc\InventoryAndStatsCPP\UHT"
+/I "C:\UnrealEngine\MyProjects\Inventory_And_Stats_CPP\InventoryAndStatsCPP\Source"
 /external:W0
 /external:I "ThirdParty\GuidelinesSupportLibrary\GSL-1144\include"
 /external:I "ThirdParty\RapidJSON\1.1.0"
